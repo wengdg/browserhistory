@@ -12,3 +12,33 @@ h1, h2 {
 img {
   float: left;
 }
+
+.toc {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc li {
+  display: inline;
+  padding: 100px;
+}
+
+.ie {
+  float: left;
+  width: 300px;
+  padding: 10px 40px;
+}
+
+.chrome {
+  float: left;
+  width: 300px;
+  padding: 10px 40px;
+}
+
+.firefox {
+  float: left;
+  width: 300px;
+  padding: 10px 40px;
+}}
