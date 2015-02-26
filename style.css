@@ -1,0 +1,19 @@
+body {
+  color: white;
+  background-color: black;
+  margin: 10px 50px 10px 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.homeimg {
+  width: 300px;
+}
+
+.pageimg {
+  float: left;
+  width: 100px;
+}
+
+h1{
+  font-family: 'Oswald', sans-serif;
+}
